@@ -324,7 +324,7 @@ body{
   }
   .item h6{
     margin-bottom: 20px;
-    color:#2f2f2f;
+    color:#3669b3;
   }   
 
 .counters {
@@ -1098,7 +1098,7 @@ body{
     }
 
     .header .fa-bars:hover{
-        color: #00bfff;
+        color: #3669b3;
     }
 
     .header .navbar{
